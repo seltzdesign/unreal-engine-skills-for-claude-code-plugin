@@ -1,0 +1,13 @@
+{
+  "name": "seltzdesign-unreal",
+  "owner": {
+    "name": "seltzdesign"
+  },
+  "plugins": [
+    {
+      "name": "unreal-engine-skills-for-claude-code",
+      "source": "./",
+      "description": "Fork of EpicGames/unreal-engine-skills-for-claude-code-plugin with the SessionStart hook path quoted (upstream PR #5)."
+    }
+  ]
+}
